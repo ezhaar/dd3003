@@ -1,0 +1,72 @@
+
+
+******* Fine Grid Size: 100 and Number of fine iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.906416
+
+Elapsed time: 1.080976
+data saved in jacobi_parallel_data.txt
+
+
+******* Fine Grid Size: 100 and Number of fine iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.906818
+
+Elapsed time: 0.556528
+data saved in jacobi_parallel_data.txt
+
+
+******* Fine Grid Size: 100 and Number of fine iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.906574
+
+Elapsed time: 0.384512
+data saved in jacobi_parallel_data.txt
+
+
+******* Fine Grid Size: 100 and Number of fine iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.906717
+
+Elapsed time: 0.307024
+data saved in jacobi_parallel_data.txt
+
+
+******* Fine Grid Size: 200 and Number of fine iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.999972
+
+Elapsed time: 4.429264
+data saved in jacobi_parallel_data.txt
+
+
+******* Fine Grid Size: 200 and Number of fine iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.999972
+
+Elapsed time: 2.230224
+data saved in jacobi_parallel_data.txt
+
+
+******* Fine Grid Size: 200 and Number of fine iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.999972
+
+Elapsed time: 1.586112
+data saved in jacobi_parallel_data.txt
+
+
+******* Fine Grid Size: 200 and Number of fine iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.999972
+
+Elapsed time: 1.173968
+data saved in jacobi_parallel_data.txt

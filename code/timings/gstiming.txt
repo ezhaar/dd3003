@@ -1,0 +1,18 @@
+
+
+******* Fine Grid Size: 100 and Number of iterations: 1000 *******
+
+
+Final maxdiff: 0.607525
+
+Elapsed time: 1.014480
+data saved in jacobi_serial_data.txt
+
+
+******* Fine Grid Size: 200 and Number of iterations: 1000 *******
+
+
+Final maxdiff: 0.994053
+
+Elapsed time: 4.305936
+data saved in jacobi_serial_data.txt

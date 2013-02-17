@@ -1,0 +1,36 @@
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.124384
+data saved in multigrid_gauss_serial_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.493344
+data saved in multigrid_gauss_serial_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 2.039168
+data saved in multigrid_gauss_serial_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 *******
+
+
+Final maxdiff: 0.000593 after 8 V-cycles
+
+Elapsed time: 8.220448
+data saved in multigrid_gauss_serial_data.txt

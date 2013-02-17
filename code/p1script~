@@ -1,0 +1,50 @@
+#!/bin/bash -x
+for i in 100 200
+do
+./jacobi_serial $i 1000 >> jstiming.txt
+done
+
+for i in 100 200
+  do
+  for j in 1 2 3 4
+  ./jacobi_parallel $i $j 1000 >> jptiming.txt
+  done
+done
+
+for i in 100 200
+do
+./gauss_serial $i 1000 >> gstiming.txt
+done
+
+for i in 100 200
+do
+for j in 1 2 3 4
+./gauss_parallel $i $j 1000 >> gptiming.txt
+done
+done
+
+for i in 12 24
+do
+./multigrid_serial $i 125 >> mjs.txt
+done
+
+for i in 12 24
+do
+for j in 1 2 3 4
+./multigrid_parallel $i $j 125 >> mjp.txt
+done
+done
+
+for i in 12 24
+do
+./multigrid_gauss_serial $i 125 >> mgs.txt
+done
+
+for i in 12 24
+do
+for j in 1 2 3 4
+./multigrid_gauss_parallel $i $j 125 >> mgp.txt
+done
+done
+
+exit 0

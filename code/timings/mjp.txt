@@ -1,0 +1,144 @@
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.133728
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.198800
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.236800
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.286384
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.525328
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.407200
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.444720
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.535584
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 2.144784
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 1.245296
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 1.016672
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.947312
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.030968 after 8 V-cycles
+
+Elapsed time: 8.728048
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.030968 after 8 V-cycles
+
+Elapsed time: 4.635664
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.031096 after 8 V-cycles
+
+Elapsed time: 3.372064
+data saved in multigrid_parallel_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.030986 after 8 V-cycles
+
+Elapsed time: 2.736128
+data saved in multigrid_parallel_data.txt

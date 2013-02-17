@@ -1,0 +1,72 @@
+
+
+******* Fine Grid Size: 100 and Number of fine iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.607525
+
+Elapsed time: 1.084832
+data saved in gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 100 and Number of fine iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.608390
+
+Elapsed time: 0.549744
+data saved in gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 100 and Number of fine iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.607187
+
+Elapsed time: 0.377088
+data saved in gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 100 and Number of fine iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.607309
+
+Elapsed time: 0.284112
+data saved in gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 200 and Number of fine iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.994053
+
+Elapsed time: 4.586800
+data saved in gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 200 and Number of fine iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.994653
+
+Elapsed time: 2.324656
+data saved in gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 200 and Number of fine iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.994047
+
+Elapsed time: 1.575424
+data saved in gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 200 and Number of fine iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.994283
+
+Elapsed time: 1.160144
+data saved in gauss_parallel_data.txt

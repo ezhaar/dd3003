@@ -1,0 +1,144 @@
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.134352
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.241888
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.347536
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 25 and Number of coarse iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.513472
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.527040
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.488288
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.590752
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 49 and Number of coarse iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 0.735824
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 2.169376
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 1.357696
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 1.226464
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 99 and Number of coarse iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.000000 after 8 V-cycles
+
+Elapsed time: 1.260480
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 and Number of Threads: 1 *******
+
+
+Final maxdiff: 0.000593 after 8 V-cycles
+
+Elapsed time: 8.772864
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 and Number of Threads: 2 *******
+
+
+Final maxdiff: 0.000593 after 8 V-cycles
+
+Elapsed time: 4.830560
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 and Number of Threads: 3 *******
+
+
+Final maxdiff: 0.000593 after 8 V-cycles
+
+Elapsed time: 3.616608
+data saved in multigrid_gauss_parallel_data.txt
+
+
+******* Fine Grid Size: 199 and Number of coarse iterations: 1000 and Number of Threads: 4 *******
+
+
+Final maxdiff: 0.000593 after 8 V-cycles
+
+Elapsed time: 3.106304
+data saved in multigrid_gauss_parallel_data.txt
